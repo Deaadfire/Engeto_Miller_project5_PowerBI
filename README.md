@@ -1,2 +1,4 @@
 # Engeto_Miller_project5_PowerBI
-Repository for Engeto project 5 PowerBI - Jakub Miller
+Repozitář pro Engeto project 5 PowerBI - Jakub Miller
+
+## Přehled státních mateřských a základních škol v Brně a jejich spádová území ##
